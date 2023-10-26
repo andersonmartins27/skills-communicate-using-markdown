@@ -5,3 +5,7 @@
 ``` c#
 Console.WriteLine("Hello World");
 ```
+
+- [ ] Learn Git/GitHub
+- [ ] Learn JavaScript
+- [ ] Learn React
